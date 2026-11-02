@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Dental Resources Library tooth mark">
+  <rect x="2" y="2" width="96" height="96" rx="18" fill="#0f172a"/>
+  <path d="M50 14c-7.5 0-9.8 3-17.5 3C21 17 13.5 26 13.5 39.5c0 9.8 3.8 13.8 5.8 23.6 1.6 7.9 2.8 23.4 7.9 23.4 5.8 0 3.9-17.4 8.8-17.4s3 17.4 8.8 17.4c5.1 0 6.3-15.5 7.9-23.4 2-9.8 5.8-13.8 5.8-23.6C86.5 26 79 17 67.5 17 57.5 14 50 14z" fill="#f59e0b"/>
+  <rect x="30" y="40" width="40" height="5" rx="2.5" fill="#0f172a"/>
+  <rect x="30" y="51" width="40" height="5" rx="2.5" fill="#0f172a"/>
+</svg>
