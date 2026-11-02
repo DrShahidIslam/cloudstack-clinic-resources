@@ -28,6 +28,6 @@ Plus `styles.css`, `robots.txt`, `404.html` and `favicon.svg`. A `sitemap.xml` i
 
 ## Build notes
 
-- Canonical and Open Graph URLs use the build token `{{BASE}}`, replaced with the live GitHub Pages base URL at freeze time. Sister-site links use `{{SISTER_FLAGSHIP}}`, `{{SISTER_KNOWLEDGE}}` and `{{SISTER_LOCAL}}` tokens, replaced in the same pass. Tokens appear in href attributes only, never in visible text.
+- Canonical and Open Graph URLs use the build token `https://drshahidislam.github.io/cloudstack-clinic-resources`, replaced with the live GitHub Pages base URL at freeze time. Sister-site links use `https://cloudstack-clinic-flagship.pages.dev`, `https://cloudstack-clinic-knowledge.web.app` and `https://cloudstack-clinic-local.netlify.app` tokens, replaced in the same pass. Tokens appear in href attributes only, never in visible text.
 - All clinic facts (address, phone, hours, geo coordinates) follow the master cloudstack SPEC and match the main clinic website.
 - No prices are stated anywhere on this property: the clinic quotes after examination, and the cost pages explain how quotes are built and link to the cost guides on the main site.

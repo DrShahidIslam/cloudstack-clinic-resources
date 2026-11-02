@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://drshahidislam.github.io/cloudstack-clinic-resources/sitemap.xml
